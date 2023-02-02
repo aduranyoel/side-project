@@ -1,0 +1,21 @@
+{
+  "name": "side-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "workspaces": ["./projects/*"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoet92/side-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoet92/side-project/issues"
+  },
+  "homepage": "https://github.com/yoet92/side-project#readme"
+}
